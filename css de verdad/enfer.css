@@ -1,0 +1,24 @@
+.Enfermedades-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.Enfermedades-Enfermedades{
+    font-size: 20px;
+    font-weight: 500;
+    box-shadow: 0 4px 10px rgb(186, 20, 45);
+    border-radius: 42px;
+    padding: 0.5em 0.7em;
+    margin: 10px;
+}
+
+.Enfermedades-list {
+    list-style: none;
+    padding: 0;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

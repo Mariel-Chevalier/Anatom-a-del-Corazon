@@ -1,0 +1,9 @@
+
+.foto {
+    display: flex;
+    flex-direction: column;
+}
+
+.ola_bottom {
+    transform: scaleY(-1);
+}

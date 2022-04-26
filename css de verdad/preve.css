@@ -1,0 +1,13 @@
+.prevencion-title{
+    font-size: 35px;
+    font-weight: bold;
+    margin: 1;
+    color: var(--primary-color);
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.prevencion {
+    text-align: left;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,15 @@
+.alimetacion-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.alimetacion {
+    display: flex;
+    flex-direction: column;
+}
+
+.ola_bottom {
+    transform: scaleY(-1);
+}
